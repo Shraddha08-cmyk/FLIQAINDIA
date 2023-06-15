@@ -1,0 +1,54 @@
+.associate {
+    background-color: #A1E3D8;
+    height: 46vh;
+}
+
+.head-left {
+    text-align: left;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+
+.text1 {
+    color: #4C696D;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.text2 {
+    font-size: 13px;
+    position: relative;
+    bottom: 12px;
+}
+
+.text3 {
+    color: #4C696D;
+    font-weight: 400;
+    position: absolute;
+    right: 50px;
+    bottom: -305px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.card-opt {
+    position: relative;
+    bottom: 12px;
+    text-align: left;
+}
+
+.card-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card-img {
+    position: relative;
+    bottom: 12px;
+    width: 74px;
+}

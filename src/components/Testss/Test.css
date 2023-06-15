@@ -1,0 +1,34 @@
+.test {
+    position: relative;
+    bottom: 200px;
+}
+
+.test-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 600px;
+    gap: 95px;
+}
+
+.right1 {
+    text-align: left;
+}
+
+.right-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.test-cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    gap: 20px;
+    left: 538px;
+    margin-top: 60px;
+}

@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Comfortaa&family=Homenaje&family=Inter:wght@300;700&family=Josefin+Sans:wght@300&family=Jura:wght@700&family=K2D:wght@200&family=Nunito:wght@500&display=swap');
+
+.offer {
+    position: relative;
+    bottom: 250px;
+}
+
+.offer-left {
+    text-align: center;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+
+.offer-head1 {
+    color: #4C696D;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.offer-head2 {
+    font-size: 13px;
+    position: relative;
+    bottom: 12px;
+}
+
+.offer-cards {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.offer-desc {
+    background-color: black;
+    opacity: 0.5;
+    position: relative;
+    height: 211px;
+    bottom: 211px;
+    right: 10px;
+    width: 170px;
+}
+
+.offer-desc2 {
+    background-color: black;
+    opacity: 0.5;
+    position: relative;
+    height: 211px;
+    bottom: 211px;
+    right: 5px;
+    width: 159px;
+}
+
+.offer-desc3 {
+    background-color: black;
+    opacity: 0.5;
+    position: relative;
+    height: 211px;
+    bottom: 211px;
+    right: -4px;
+    width: 141px;
+}

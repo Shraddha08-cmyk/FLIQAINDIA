@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Bebas+Neue&family=Comfortaa&family=Inter:wght@300;700&family=Josefin+Sans:wght@300&family=Jura:wght@700&family=Nunito:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Comfortaa&family=Homenaje&family=Inter:wght@300;700&family=Josefin+Sans:wght@300&family=Jura:wght@700&family=Nunito:wght@500&display=swap');
+
+.service-left {
+    text-align: left;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+
+.ser1 {
+    color: #4C696D;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.ser2 {
+    font-size: 13px;
+    position: relative;
+    bottom: 12px;
+}
+
+.ser-cards {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.poster2 img{
+    position: relative;
+    top: 30px;
+    width: 100%;
+}
+
+.post-text {
+    position: relative;
+    bottom: 260px;
+    text-align: left;
+    margin-left: 30px;
+}
+
+.input-post {
+    position: relative;
+    bottom: 220px;
+    right: 365px;
+}
+
+.input-post input {
+    width: 400px;
+    height: 40px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.input-post .btn {
+    width: 180px;
+    background-color: #221010;
+    border-radius: 30px;
+    position: relative;
+    right: 40px;
+    bottom: 3.6px;
+}
+
+.gallery {
+    display: flex;
+    width: 600px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    bottom: 450px;
+    right: -742px;
+}
+
+.post-desc {
+    position: relative;
+    bottom: 300px;
+}

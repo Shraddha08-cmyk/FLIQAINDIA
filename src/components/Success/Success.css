@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Bebas+Neue&family=Comfortaa&family=Inter:wght@300;700&family=Josefin+Sans:wght@300&family=Jura:wght@700&family=Nunito:wght@500&display=swap');
+
+.success {
+    background-color: #ACCBC7;
+    height: 62vh;
+    position: relative;
+    top: 240px;
+}
+
+.success-left {
+    text-align: center;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+
+.success-head1 {
+    color: #4C696D;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.success-head2 {
+    font-size: 13px;
+    position: relative;
+    bottom: 12px;
+}
+
+.success-cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.suc-desc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.post3-opt {
+    position: relative;
+    top: -65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}

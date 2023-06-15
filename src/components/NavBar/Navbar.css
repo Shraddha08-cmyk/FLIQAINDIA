@@ -1,0 +1,32 @@
+.navbar {
+    background-color: black;
+    height: 130px;
+    width: 100%;
+}
+
+.logo1 {
+    width: 150px;
+}
+
+.nav-left {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 750px;
+    position: relative;
+    left: 20px;
+    top: 10px;
+    /* bottom: 105px; */
+}
+
+.nav-right {
+    display: flex;
+    gap: 20px;
+    position: relative;
+    right: 20px;
+    /* bottom: 118px; */
+}
+
+.poster img {
+    width: 100%;
+}
